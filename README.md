@@ -4,16 +4,6 @@ I'm **Zurt**, a **Senior Software Engineer** focused on backend systems, cloud-n
 
 I enjoy building reliable services, designing clean system architectures, and turning complex problems into simple, maintainable solutions. Most of my work revolves around backend engineering, distributed systems, and cloud infrastructure.
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/glowhub-1028">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=glowhub-1028&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="85%" alt="activity graph">
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <a href="https://github-trophies.vercel.app/?username=glowhub-1028" target="_blank">
     <img src="https://github-trophies.vercel.app/?username=glowhub-1028&theme=gotham&margin-w=4&margin-h=4" alt="GitHub Trophies">
