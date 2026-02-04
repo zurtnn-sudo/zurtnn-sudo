@@ -1,58 +1,99 @@
-# 👋 Hi, I'm Zurt
+## Hi there 👋
 
-Hey — welcome to my GitHub.
+I'm **Zurt**, a **Senior Software Engineer** focused on backend systems, cloud-native architectures, and scalable platforms.
 
-I'm a **Software Developer** who enjoys building clean, scalable systems and learning how things work under the hood. I care a lot about **good architecture**, **maintainable code**, and solving real problems instead of just shipping features fast.
+I enjoy building reliable services, designing clean system architectures, and turning complex problems into simple, maintainable solutions. Most of my work revolves around backend engineering, distributed systems, and cloud infrastructure.
 
-Most of the projects here reflect my experience with:
-- Backend & API development
-- Cloud-native systems
-- Serverless and distributed architectures
-- Automation, data handling, and performance-focused design
+<br>
 
----
+<div align="center">
+  <a href="https://github.com/glowhub-1028">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=glowhub-1028&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="85%" alt="activity graph">
+  </a>
+</div>
 
-## 🚀 What I Work With
+<br>
 
-- **Languages:** Python, JavaScript / TypeScript
-- **Backend:** REST APIs, event-driven systems, microservices
-- **Cloud & DevOps:** AWS, Serverless, Infrastructure as Code
-- **Databases:** SQL & NoSQL
-- **Tools:** Docker, CI/CD, Git
+<div align="center">
+  <a href="https://github-trophies.vercel.app/?username=glowhub-1028" target="_blank">
+    <img src="https://github-trophies.vercel.app/?username=glowhub-1028&theme=gotham&margin-w=4&margin-h=4" alt="GitHub Trophies">
+  </a>
+</div>
 
----
+<br>
 
-## 🧠 How I Think About Engineering
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I believe good software:
-- Is **simple before clever**
-- Is easy to read and reason about
-- Scales both **technically and organizationally**
-- Is built with long-term maintenance in mind
+### 📈 User Statistics
 
-I enjoy improving systems gradually — better performance, cleaner abstractions, fewer surprises.
+<table>
+  <tbody>
+    <tr>
+      <td padding="0">
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowhub-1028">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=glowhub-1028&theme=gotham&hide_border=true" />
+        </a>
+      </td>
+      <td padding="0">
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowhub-1028">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=glowhub-1028&theme=gotham&hide_border=true" />
+        </a>
+      </td>
+      <td padding="0">
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowhub-1028">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=glowhub-1028&theme=gotham&hide_border=true" />
+        </a>
+      </td>
+      <td padding="0">
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glowhub-1028">
+          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=glowhub-1028&theme=gotham&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
----
+<br>
 
-## 📂 About This Repository
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-This repository (and others you’ll find here) contains:
-- Well-structured sample projects
-- Architecture-focused implementations
-- Practical patterns used in real-world systems
-- Clear documentation and reasoning behind decisions
+### 💻 Tech Stack
 
-Everything here is built to reflect **real experience**, not tutorial-only code.
+<table align="center">
+  <tr>
+    <td align="center" width="70"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40"/><br>Python</td>
+    <td align="center" width="70"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/><br>JavaScript</td>
+    <td align="center" width="70"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40"/><br>TypeScript</td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=go" width="35"/><br>Go</td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=java" width="35"/><br>Java</td>
+  </tr>
+  <tr>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=nodejs" width="35"/><br>Node.js</td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=fastapi" width="35"/><br>FastAPI</td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=postgres" width="35"/><br>PostgreSQL</td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=mongodb" width="35"/><br>MongoDB</td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=redis" width="35"/><br>Redis</td>
+  </tr>
+  <tr>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=aws" width="35"/><br>AWS</td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=docker" width="35"/><br>Docker</td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=terraform" width="35"/><br>Terraform</td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=githubactions" width="35"/><br>CI/CD</td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=linux" width="35"/><br>Linux</td>
+  </tr>
+</table>
 
----
+<br>
 
-## 🤝 Let’s Connect
+## 🛠️ Languages & Tools
 
-If you’re interested in:
-- Software architecture
-- Backend or cloud engineering
-- Thoughtful discussions about tech
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
+</div>
 
-Feel free to reach out or explore the projects here.
-
-Thanks for stopping by 🙂
+<br/>
