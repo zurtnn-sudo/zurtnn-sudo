@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Zurt**, a **Senior Software Engineer** focused on backend systems, cloud-native architectures, and scalable platforms.
+I'm **Bryan**, a **Senior Software Engineer** focused on backend systems, cloud-native architectures, and scalable platforms.
 
 I enjoy building reliable services, designing clean system architectures, and turning complex problems into simple, maintainable solutions. Most of my work revolves around backend engineering, distributed systems, and cloud infrastructure.
 
