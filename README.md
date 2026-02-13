@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0ZjViMDA0ZmVjYzEwYTc3ZTk0OGRkMWNiMTk0YWZmYzYwMmFjYiZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I'm **Bryan**, a **Senior Software Engineer** focused on backend systems, cloud-native architectures, and scalable platforms.
 
