@@ -86,7 +86,7 @@ I enjoy building reliable services, designing clean system architectures, and tu
   <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
 </div>
 
-<br/>
+<br>
 
 ------
 
@@ -101,5 +101,7 @@ I enjoy building reliable services, designing clean system architectures, and tu
 <h2 id="visiotrs">👀 Profile Views</h2>
 
 ![visitors](https://komarev.com/ghpvc/?username=zurtnn-sudo)
+
+<br/>
 
 
