@@ -89,5 +89,14 @@ I enjoy building reliable services, designing clean system architectures, and tu
 <br/>
 
 <h2 id="github-stats">📈 GitHub Stats</h2>
-  
+
 ![zurtnn-sudo GitHub Stats](https://stats.dooboo.io/api/github-stats-advanced?login=zurtnn-sudo)
+
+<h2 id="github-stats">GitHub Streak</h2>
+
+<div align="center">![GitHub Streak](https://streak-stats.demolab.com/?user=zurtnn-sudo)</div>
+
+<h2 id="github-stats">Visitors</h2>
+
+<div align="center">![visitors](https://komarev.com/ghpvc/?username=zurtnn-sudo)</div>
+
