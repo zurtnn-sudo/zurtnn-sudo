@@ -8,7 +8,7 @@
 
 ## Hi there  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI0ZjViMDA0ZmVjYzEwYTc3ZTk0OGRkMWNiMTk0YWZmYzYwMmFjYiZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm **Luis**, a **Senior Software Engineer** focused on backend systems, cloud-native architectures, and scalable platforms.
+I'm **Bryan**, a **Senior AI/GenAI platform engineer** focused on backend systems, cloud-native architectures, and scalable platforms.
 
 I enjoy building reliable services, designing clean system architectures, and turning complex problems into simple, maintainable solutions. Most of my work revolves around backend engineering, distributed systems, and cloud infrastructure.
 
